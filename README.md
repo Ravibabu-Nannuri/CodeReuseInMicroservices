@@ -8,4 +8,10 @@ When we consider several Microservice teams, we want each team to operate with m
 
 # 2. Identifying Reusable Components in Code and Sync (Managed Copy-Paste) Between Microservices
 
+![](https://github.com/Ravibabu-Nannuri/CodeReuseInMicroservices/blob/master/Reusable%20Components%20in%20Code%20and%20Sync%20Between%20Microservices.png)
+
+# 3. Dynamic Code Injection at Runtime
+
+
+
 Ref: https://blog.bitsrc.io/the-dilemma-of-code-reuse-in-microservices-a925ff2b9981
