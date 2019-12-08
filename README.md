@@ -16,6 +16,8 @@ When we consider several Microservice teams, we want each team to operate with m
 
 # 4. Sharing Code as a Microservice
 
+![](https://github.com/Ravibabu-Nannuri/CodeReuseInMicroservices/blob/master/Sharing%20Code%20as%20a%20Microservice.png
+)
 
 
 
