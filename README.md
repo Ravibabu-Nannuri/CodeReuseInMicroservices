@@ -6,5 +6,6 @@ When we consider several Microservice teams, we want each team to operate with m
 
 ![](https://github.com/Ravibabu-Nannuri/CodeReuseInMicroservices/blob/master/ReusableCodeAsa%20Library.png)
 
+# 2. Identifying Reusable Components in Code and Sync (Managed Copy-Paste) Between Microservices
 
 Ref: https://blog.bitsrc.io/the-dilemma-of-code-reuse-in-microservices-a925ff2b9981
