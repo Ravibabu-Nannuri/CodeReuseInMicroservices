@@ -12,6 +12,13 @@ When we consider several Microservice teams, we want each team to operate with m
 
 # 3. Dynamic Code Injection at Runtime
 
+![](https://github.com/Ravibabu-Nannuri/CodeReuseInMicroservices/blob/master/Dynamic%20Code%20Injection%20at%20Runtime.png)
+
+# 4. Sharing Code as a Microservice
+
+
+
+
 
 
 Ref: https://blog.bitsrc.io/the-dilemma-of-code-reuse-in-microservices-a925ff2b9981
